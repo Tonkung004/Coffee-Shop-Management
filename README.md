@@ -1,4 +1,4 @@
-# ☕ Coffee Shop - Receipt Printer 🖨️ 
+# ☕ Coffee Shop Management - Receipt Printer 🖨️ 
 
 ![GitHub](https://img.shields.io/github/license/EmanuelButoiGit/coffee-shop)
 ![.NET](https://img.shields.io/badge/.NET%20Framework-4.8-blue.svg)
