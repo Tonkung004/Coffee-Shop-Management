@@ -34,7 +34,7 @@ A lightweight C# Form Application designed to facilitate the ordering process at
 
 1. Clone the repository
 ```bash
-git clone https://github.com/EmanuelButoiGit/coffee-shop.git
+git@github.com:Tonkung004/Coffee-Shop-Management.git
 ```
 
 ## 🤝 Contribution Guidelines
